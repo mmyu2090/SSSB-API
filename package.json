@@ -1,0 +1,24 @@
+{
+  "name": "sssb-api",
+  "version": "1.0.0",
+  "description": "https://github.com/mmyu2090/SSSB-API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmyu2090/SSSB-API.git"
+  },
+  "author": "Wooseok Jang (mmyu2090@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmyu2090/SSSB-API/issues"
+  },
+  "homepage": "https://github.com/mmyu2090/SSSB-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expresss": "0.0.0",
+    "mongoose": "^5.10.0"
+  }
+}
